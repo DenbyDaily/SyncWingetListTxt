@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2023-01-22T00:04:25.524-00:00",
+	"CreationDate" : "2023-01-23T00:08:03.562-00:00",
 	"Sources" : 
 	[
 		{
@@ -41,6 +41,9 @@
 				},
 				{
 					"PackageIdentifier" : "Discord.Discord.PTB"
+				},
+				{
+					"PackageIdentifier" : "Dropbox.Dropbox"
 				},
 				{
 					"PackageIdentifier" : "voidtools.Everything"
@@ -173,6 +176,9 @@
 				},
 				{
 					"PackageIdentifier" : "Twilio.Authy"
+				},
+				{
+					"PackageIdentifier" : "qBittorrent.qBittorrent"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.7"
