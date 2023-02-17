@@ -1,11 +1,14 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2023-02-16T07:35:28.057-00:00",
+	"CreationDate" : "2023-02-17T16:58:58.561-00:00",
 	"Sources" : 
 	[
 		{
 			"Packages" : 
 			[
+				{
+					"PackageIdentifier" : "AgileBits.1Password"
+				},
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudio.2022.Community"
 				},
@@ -145,6 +148,9 @@
 					"PackageIdentifier" : "Debian.Debian"
 				},
 				{
+					"PackageIdentifier" : "JetBrains.Toolbox"
+				},
+				{
 					"PackageIdentifier" : "EZBSystems.UltraISO"
 				},
 				{
@@ -181,9 +187,6 @@
 					"PackageIdentifier" : "qBittorrent.qBittorrent"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.7"
-				},
-				{
 					"PackageIdentifier" : "Musescore.Musescore"
 				},
 				{
@@ -203,6 +206,9 @@
 				},
 				{
 					"PackageIdentifier" : "VMware.WorkstationPro"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.7"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.3_1"
@@ -277,9 +283,6 @@
 					"PackageIdentifier" : "TechPowerUp.GPU-Z"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.6"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2008.x86"
 				},
 				{
@@ -314,6 +317,9 @@
 				},
 				{
 					"PackageIdentifier" : "ElectronicArts.EADesktop"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.6"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2012.x64"
