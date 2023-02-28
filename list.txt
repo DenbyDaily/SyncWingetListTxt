@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2023-02-27T06:59:13.783-00:00",
+	"CreationDate" : "2023-02-28T17:40:27.705-00:00",
 	"Sources" : 
 	[
 		{
@@ -211,6 +211,9 @@
 					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.7"
 				},
 				{
+					"PackageIdentifier" : "Microsoft.PowerToys"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.3_1"
 				},
 				{
@@ -221,9 +224,6 @@
 				},
 				{
 					"PackageIdentifier" : "Python.Python.3.10"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.PowerToys"
 				},
 				{
 					"PackageIdentifier" : "GitHub.cli"
