@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2023-03-10T00:02:40.701-00:00",
+	"CreationDate" : "2023-03-13T18:01:26.081-00:00",
 	"Sources" : 
 	[
 		{
@@ -50,6 +50,9 @@
 				},
 				{
 					"PackageIdentifier" : "voidtools.Everything"
+				},
+				{
+					"PackageIdentifier" : "FilesCommunity.Files"
 				},
 				{
 					"PackageIdentifier" : "flux.flux"
@@ -130,6 +133,9 @@
 					"PackageIdentifier" : "Piriform.Recuva"
 				},
 				{
+					"PackageIdentifier" : "Sandboxie.Plus"
+				},
+				{
 					"PackageIdentifier" : "Piriform.Speccy"
 				},
 				{
@@ -178,6 +184,9 @@
 					"PackageIdentifier" : "RARLab.WinRAR"
 				},
 				{
+					"PackageIdentifier" : "Winamp.Winamp"
+				},
+				{
 					"PackageIdentifier" : "AntibodySoftware.WizFile"
 				},
 				{
@@ -191,6 +200,9 @@
 				},
 				{
 					"PackageIdentifier" : "SlackTechnologies.Slack"
+				},
+				{
+					"PackageIdentifier" : "WinSCP.WinSCP"
 				},
 				{
 					"PackageIdentifier" : "Musescore.Musescore"
@@ -253,6 +265,9 @@
 					"PackageIdentifier" : "Malwarebytes.Malwarebytes"
 				},
 				{
+					"PackageIdentifier" : "PuTTY.PuTTY"
+				},
+				{
 					"PackageIdentifier" : "Logitech.GHUB"
 				},
 				{
@@ -311,6 +326,12 @@
 				},
 				{
 					"PackageIdentifier" : "Elgato.StreamDeck"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.MouseWithoutBorders"
+				},
+				{
+					"PackageIdentifier" : "dotPDNLLC.paintdotnet"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2010.x86"
