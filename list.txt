@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2023-03-14T17:37:10.756-00:00",
+	"CreationDate" : "2023-03-15T07:05:39.678-00:00",
 	"Sources" : 
 	[
 		{
@@ -32,6 +32,9 @@
 				},
 				{
 					"PackageIdentifier" : "CrystalDewWorld.CrystalDiskInfo"
+				},
+				{
+					"PackageIdentifier" : "CrystalDewWorld.CrystalDiskMark"
 				},
 				{
 					"PackageIdentifier" : "Orwell.Dev-C++"
@@ -265,6 +268,9 @@
 					"PackageIdentifier" : "Malwarebytes.Malwarebytes"
 				},
 				{
+					"PackageIdentifier" : "Elgato.StreamDeck"
+				},
+				{
 					"PackageIdentifier" : "PuTTY.PuTTY"
 				},
 				{
@@ -325,9 +331,6 @@
 					"PackageIdentifier" : "BotProductions.IconViewer"
 				},
 				{
-					"PackageIdentifier" : "Elgato.StreamDeck"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.MouseWithoutBorders"
 				},
 				{
@@ -338,6 +341,9 @@
 				},
 				{
 					"PackageIdentifier" : "Google.EarthPro"
+				},
+				{
+					"PackageIdentifier" : "CodeSector.TeraCopy"
 				},
 				{
 					"PackageIdentifier" : "Corsair.iCUE.4"
