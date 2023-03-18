@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2023-03-17T17:40:38.221-00:00",
+	"CreationDate" : "2023-03-18T09:38:43.638-00:00",
 	"Sources" : 
 	[
 		{
@@ -17,6 +17,9 @@
 				},
 				{
 					"PackageIdentifier" : "ShareX.ShareX"
+				},
+				{
+					"PackageIdentifier" : "AirDroid.AirDroid"
 				},
 				{
 					"PackageIdentifier" : "Audacity.Audacity"
@@ -308,6 +311,9 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2005.x86"
+				},
+				{
+					"PackageIdentifier" : "Pushbullet.Pushbullet"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VisualStudioCode"
