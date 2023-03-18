@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2023-03-18T09:38:43.638-00:00",
+	"CreationDate" : "2023-03-19T07:54:14.775-00:00",
 	"Sources" : 
 	[
 		{
@@ -23,6 +23,9 @@
 				},
 				{
 					"PackageIdentifier" : "Audacity.Audacity"
+				},
+				{
+					"PackageIdentifier" : "AutoHotkey.AutoHotkey"
 				},
 				{
 					"PackageIdentifier" : "Brave.Brave"
@@ -238,9 +241,6 @@
 					"PackageIdentifier" : "VMware.WorkstationPro"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.PowerToys"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.3_1"
 				},
 				{
@@ -286,6 +286,9 @@
 					"PackageIdentifier" : "PuTTY.PuTTY"
 				},
 				{
+					"PackageIdentifier" : "Microsoft.PowerToys"
+				},
+				{
 					"PackageIdentifier" : "Logitech.GHUB"
 				},
 				{
@@ -301,7 +304,13 @@
 					"PackageIdentifier" : "Microsoft.WindowsPCHealthCheck"
 				},
 				{
+					"PackageIdentifier" : "Nord.NordLocker"
+				},
+				{
 					"PackageIdentifier" : "Google.Drive"
+				},
+				{
+					"PackageIdentifier" : "GPSoftware.DirectoryOpus"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WindowsADK"
@@ -320,6 +329,9 @@
 				},
 				{
 					"PackageIdentifier" : "OpenJS.NodeJS.LTS"
+				},
+				{
+					"PackageIdentifier" : "Eraser.Eraser"
 				},
 				{
 					"PackageIdentifier" : "TechPowerUp.GPU-Z"
