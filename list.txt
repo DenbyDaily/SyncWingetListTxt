@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2023-04-09T00:12:36.601-00:00",
+	"CreationDate" : "2023-04-10T00:11:39.442-00:00",
 	"Sources" : 
 	[
 		{
@@ -362,6 +362,9 @@
 				},
 				{
 					"PackageIdentifier" : "BrickLink.Studio"
+				},
+				{
+					"PackageIdentifier" : "namazso.OpenHashTab"
 				},
 				{
 					"PackageIdentifier" : "BotProductions.IconViewer"
