@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2023-04-10T00:11:39.442-00:00",
+	"CreationDate" : "2023-04-11T21:01:30.023-00:00",
 	"Sources" : 
 	[
 		{
@@ -140,6 +140,9 @@
 				},
 				{
 					"PackageIdentifier" : "Plex.Plex"
+				},
+				{
+					"PackageIdentifier" : "Prusa3D.PrusaSlicer"
 				},
 				{
 					"PackageIdentifier" : "Piriform.Recuva"
