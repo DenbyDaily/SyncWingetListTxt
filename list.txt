@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2023-04-14T08:59:21.118-00:00",
+	"CreationDate" : "2023-04-15T08:02:55.989-00:00",
 	"Sources" : 
 	[
 		{
@@ -244,9 +244,6 @@
 					"PackageIdentifier" : "Microsoft.VCRedist.2013.x64"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.6"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.WebDeploy"
 				},
 				{
@@ -275,9 +272,6 @@
 				},
 				{
 					"PackageIdentifier" : "clsid2.mpc-hc"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.7"
 				},
 				{
 					"PackageIdentifier" : "PrivateInternetAccess.PrivateInternetAccess"
@@ -349,6 +343,9 @@
 					"PackageIdentifier" : "TechPowerUp.GPU-Z"
 				},
 				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.6"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2008.x86"
 				},
 				{
@@ -392,6 +389,9 @@
 				},
 				{
 					"PackageIdentifier" : "ElectronicArts.EADesktop"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.7"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2012.x64"
