@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2023-04-15T08:02:55.989-00:00",
+	"CreationDate" : "2023-04-20T09:39:47.056-00:00",
 	"Sources" : 
 	[
 		{
@@ -19,6 +19,9 @@
 					"PackageIdentifier" : "ShareX.ShareX"
 				},
 				{
+					"PackageIdentifier" : "Guru3D.Afterburner"
+				},
+				{
 					"PackageIdentifier" : "AirDroid.AirDroid"
 				},
 				{
@@ -35,6 +38,9 @@
 				},
 				{
 					"PackageIdentifier" : "CPUID.CPU-Z"
+				},
+				{
+					"PackageIdentifier" : "Canonical.Ubuntu.2204"
 				},
 				{
 					"PackageIdentifier" : "CrystalDewWorld.CrystalDiskInfo"
@@ -143,6 +149,9 @@
 				},
 				{
 					"PackageIdentifier" : "Prusa3D.PrusaSlicer"
+				},
+				{
+					"PackageIdentifier" : "Rainmeter.Rainmeter"
 				},
 				{
 					"PackageIdentifier" : "Piriform.Recuva"
