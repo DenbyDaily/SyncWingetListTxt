@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2023-04-20T09:39:47.056-00:00",
+	"CreationDate" : "2023-04-21T08:39:03.905-00:00",
 	"Sources" : 
 	[
 		{
@@ -206,6 +206,9 @@
 				},
 				{
 					"PackageIdentifier" : "VirusTotal.VirusTotalUploader"
+				},
+				{
+					"PackageIdentifier" : "VivaldiTechnologies.Vivaldi"
 				},
 				{
 					"PackageIdentifier" : "WinMerge.WinMerge"
