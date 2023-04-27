@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2023-04-27T17:12:41.885-00:00",
+	"CreationDate" : "2023-04-28T00:01:51.566-00:00",
 	"Sources" : 
 	[
 		{
@@ -304,9 +304,6 @@
 					"PackageIdentifier" : "PuTTY.PuTTY"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.PowerToys"
-				},
-				{
 					"PackageIdentifier" : "Logitech.GHUB"
 				},
 				{
@@ -413,6 +410,9 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WindowsSDK"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.PowerToys"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2013.x86"
