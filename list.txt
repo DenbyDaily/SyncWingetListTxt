@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2023-04-28T00:01:51.566-00:00",
+	"CreationDate" : "2023-04-29T08:22:18.117-00:00",
 	"Sources" : 
 	[
 		{
@@ -232,6 +232,9 @@
 					"PackageIdentifier" : "JannisX11.Blockbench"
 				},
 				{
+					"PackageIdentifier" : "Axosoft.GitKraken"
+				},
+				{
 					"PackageIdentifier" : "qBittorrent.qBittorrent"
 				},
 				{
@@ -263,6 +266,9 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.3_1"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.AspNetCore.6"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2010.x64"
@@ -299,6 +305,9 @@
 				},
 				{
 					"PackageIdentifier" : "BlenderFoundation.Blender"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.Runtime.3_1"
 				},
 				{
 					"PackageIdentifier" : "PuTTY.PuTTY"
@@ -410,6 +419,9 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WindowsSDK"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.PowerShell"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.PowerToys"
