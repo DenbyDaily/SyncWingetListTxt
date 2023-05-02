@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2023-05-01T18:42:07.496-00:00",
+	"CreationDate" : "2023-05-02T19:21:13.264-00:00",
 	"Sources" : 
 	[
 		{
@@ -325,7 +325,7 @@
 					"PackageIdentifier" : "Microsoft.WindowsPCHealthCheck"
 				},
 				{
-					"PackageIdentifier" : "Nord.NordLocker"
+					"PackageIdentifier" : "NordSecurity.NordLocker"
 				},
 				{
 					"PackageIdentifier" : "Google.Drive"
