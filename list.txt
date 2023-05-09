@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2023-05-07T08:32:30.262-00:00",
+	"CreationDate" : "2023-05-09T19:23:47.021-00:00",
 	"Sources" : 
 	[
 		{
@@ -275,9 +275,6 @@
 				},
 				{
 					"PackageIdentifier" : "GitHub.cli"
-				},
-				{
-					"PackageIdentifier" : "Oracle.JavaRuntimeEnvironment"
 				},
 				{
 					"PackageIdentifier" : "Mu.Mu"
