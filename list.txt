@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2023-05-16T10:07:36.638-00:00",
+	"CreationDate" : "2023-05-17T07:51:05.883-00:00",
 	"Sources" : 
 	[
 		{
@@ -335,6 +335,9 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2005.x86"
+				},
+				{
+					"PackageIdentifier" : "Oracle.JavaRuntimeEnvironment"
 				},
 				{
 					"PackageIdentifier" : "Pushbullet.Pushbullet"
