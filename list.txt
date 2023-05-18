@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2023-05-17T07:51:05.883-00:00",
+	"CreationDate" : "2023-05-18T08:05:16.761-00:00",
 	"Sources" : 
 	[
 		{
@@ -59,6 +59,9 @@
 				},
 				{
 					"PackageIdentifier" : "Discord.Discord.PTB"
+				},
+				{
+					"PackageIdentifier" : "PassMark.DiskCheckup"
 				},
 				{
 					"PackageIdentifier" : "Dropbox.Dropbox"
@@ -223,6 +226,9 @@
 					"PackageIdentifier" : "AntibodySoftware.WizTree"
 				},
 				{
+					"PackageIdentifier" : "GitHub.Atom"
+				},
+				{
 					"PackageIdentifier" : "Twilio.Authy"
 				},
 				{
@@ -340,6 +346,9 @@
 					"PackageIdentifier" : "Oracle.JavaRuntimeEnvironment"
 				},
 				{
+					"PackageIdentifier" : "GOG.Galaxy"
+				},
+				{
 					"PackageIdentifier" : "Pushbullet.Pushbullet"
 				},
 				{
@@ -383,6 +392,9 @@
 				},
 				{
 					"PackageIdentifier" : "BotProductions.IconViewer"
+				},
+				{
+					"PackageIdentifier" : "QL-Win.QuickLook"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.MouseWithoutBorders"
