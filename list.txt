@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2023-05-21T07:28:34.632-00:00",
+	"CreationDate" : "2023-05-22T07:48:17.673-00:00",
 	"Sources" : 
 	[
 		{
@@ -128,6 +128,9 @@
 				},
 				{
 					"PackageIdentifier" : "Mp3tag.Mp3tag"
+				},
+				{
+					"PackageIdentifier" : "NextDNS.NextDNS.Desktop"
 				},
 				{
 					"PackageIdentifier" : "Notepad++.Notepad++"
@@ -421,9 +424,6 @@
 					"PackageIdentifier" : "CodeSector.TeraCopy"
 				},
 				{
-					"PackageIdentifier" : "ElectronicArts.EADesktop"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.7"
 				},
 				{
@@ -437,6 +437,9 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.PowerShell"
+				},
+				{
+					"PackageIdentifier" : "ElectronicArts.EADesktop"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.DotNet.AspNetCore.6"
