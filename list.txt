@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2023-05-26T00:04:26.205-00:00",
+	"CreationDate" : "2023-05-27T11:38:05.576-00:00",
 	"Sources" : 
 	[
 		{
@@ -128,9 +128,6 @@
 				},
 				{
 					"PackageIdentifier" : "Mp3tag.Mp3tag"
-				},
-				{
-					"PackageIdentifier" : "NextDNS.NextDNS.Desktop"
 				},
 				{
 					"PackageIdentifier" : "Notepad++.Notepad++"
@@ -304,9 +301,6 @@
 					"PackageIdentifier" : "Malwarebytes.Malwarebytes"
 				},
 				{
-					"PackageIdentifier" : "Corsair.iCUE.4"
-				},
-				{
 					"PackageIdentifier" : "BlenderFoundation.Blender"
 				},
 				{
@@ -314,6 +308,9 @@
 				},
 				{
 					"PackageIdentifier" : "Logitech.GHUB"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.PowerToys"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.CLRTypesSQLServer.2019"
@@ -382,6 +379,9 @@
 					"PackageIdentifier" : "Microsoft.VCRedist.2013.x86"
 				},
 				{
+					"PackageIdentifier" : "Google.ChromeRemoteDesktop"
+				},
+				{
 					"PackageIdentifier" : "Nvidia.GeForceExperience"
 				},
 				{
@@ -389,9 +389,6 @@
 				},
 				{
 					"PackageIdentifier" : "Nvidia.Broadcast"
-				},
-				{
-					"PackageIdentifier" : "Google.ChromeRemoteDesktop"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WindowsAdminCenter"
@@ -446,9 +443,6 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.DotNet.AspNetCore.6"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.PowerToys"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2013.x86"
