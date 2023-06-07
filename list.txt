@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2023-06-07T18:31:06.937-00:00",
+	"CreationDate" : "2023-06-08T00:07:27.827-00:00",
 	"Sources" : 
 	[
 		{
@@ -268,9 +268,6 @@
 					"PackageIdentifier" : "Microsoft.WebDeploy"
 				},
 				{
-					"PackageIdentifier" : "VMware.WorkstationPro"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.3_1"
 				},
 				{
@@ -322,6 +319,9 @@
 					"PackageIdentifier" : "Microsoft.CLRTypesSQLServer.2019"
 				},
 				{
+					"PackageIdentifier" : "IDRIX.VeraCrypt"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2008.x64"
 				},
 				{
@@ -368,6 +368,9 @@
 				},
 				{
 					"PackageIdentifier" : "Eraser.Eraser"
+				},
+				{
+					"PackageIdentifier" : "VMware.WorkstationPro"
 				},
 				{
 					"PackageIdentifier" : "TechPowerUp.GPU-Z"
