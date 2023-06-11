@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2023-06-10T07:32:40.374-00:00",
+	"CreationDate" : "2023-06-11T08:18:29.014-00:00",
 	"Sources" : 
 	[
 		{
@@ -298,6 +298,9 @@
 					"PackageIdentifier" : "clsid2.mpc-hc"
 				},
 				{
+					"PackageIdentifier" : "Microsoft.XNARedist"
+				},
+				{
 					"PackageIdentifier" : "PrivateInternetAccess.PrivateInternetAccess"
 				},
 				{
@@ -416,6 +419,9 @@
 				},
 				{
 					"PackageIdentifier" : "dotPDNLLC.paintdotnet"
+				},
+				{
+					"PackageIdentifier" : "PassmarkSoftware.OSFMount"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2010.x86"
