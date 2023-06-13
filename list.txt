@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2023-06-13T18:10:08.770-00:00",
+	"CreationDate" : "2023-06-14T07:51:23.645-00:00",
 	"Sources" : 
 	[
 		{
@@ -274,6 +274,9 @@
 					"PackageIdentifier" : "Microsoft.WebDeploy"
 				},
 				{
+					"PackageIdentifier" : "VMware.WorkstationPro"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.3_1"
 				},
 				{
@@ -377,9 +380,6 @@
 				},
 				{
 					"PackageIdentifier" : "Eraser.Eraser"
-				},
-				{
-					"PackageIdentifier" : "VMware.WorkstationPro"
 				},
 				{
 					"PackageIdentifier" : "TechPowerUp.GPU-Z"
