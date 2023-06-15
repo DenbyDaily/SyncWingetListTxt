@@ -1,6 +1,6 @@
 {
 	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2023-06-14T07:51:23.645-00:00",
+	"CreationDate" : "2023-06-15T08:26:54.705-00:00",
 	"Sources" : 
 	[
 		{
@@ -358,6 +358,9 @@
 					"PackageIdentifier" : "Microsoft.WindowsADK"
 				},
 				{
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.6"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2005.x86"
 				},
 				{
@@ -383,9 +386,6 @@
 				},
 				{
 					"PackageIdentifier" : "TechPowerUp.GPU-Z"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.6"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2008.x86"
@@ -442,22 +442,22 @@
 					"PackageIdentifier" : "Elgato.StreamDeck"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.7"
-				},
-				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2012.x64"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WindowsSDK.10.0.22000"
 				},
 				{
+					"PackageIdentifier" : "Microsoft.DotNet.AspNetCore.6"
+				},
+				{
 					"PackageIdentifier" : "Microsoft.PowerShell"
 				},
 				{
-					"PackageIdentifier" : "ElectronicArts.EADesktop"
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.7"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.DotNet.AspNetCore.6"
+					"PackageIdentifier" : "ElectronicArts.EADesktop"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VCRedist.2013.x86"
